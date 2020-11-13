@@ -1,0 +1,1 @@
+Writing a text from node fsI have appended a text through file sync hope it works
